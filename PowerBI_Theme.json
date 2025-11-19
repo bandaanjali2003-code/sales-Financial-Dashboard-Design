@@ -1,0 +1,30 @@
+{
+    "name": "SalesDashboardTheme",
+    "dataColors": [
+        "#1f77b4",
+        "#ff7f0e",
+        "#2ca02c",
+        "#d62728"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#1f77b4",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "fontSize": 14,
+                        "fontFamily": "Segoe UI",
+                        "color": "#000000"
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": "#3C3C3C"
+                    }
+                ]
+            }
+        }
+    }
+}
